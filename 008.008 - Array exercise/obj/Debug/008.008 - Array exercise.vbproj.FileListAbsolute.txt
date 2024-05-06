@@ -1,0 +1,12 @@
+C:\Users\alexa\Documents\Workspace\Visual Basic\Tutorial\008.008 - Array exercise\bin\Debug\008.008 - Array exercise.exe.config
+C:\Users\alexa\Documents\Workspace\Visual Basic\Tutorial\008.008 - Array exercise\bin\Debug\008.008 - Array exercise.exe
+C:\Users\alexa\Documents\Workspace\Visual Basic\Tutorial\008.008 - Array exercise\bin\Debug\008.008 - Array exercise.pdb
+C:\Users\alexa\Documents\Workspace\Visual Basic\Tutorial\008.008 - Array exercise\bin\Debug\008.008 - Array exercise.xml
+C:\Users\alexa\Documents\Workspace\Visual Basic\Tutorial\008.008 - Array exercise\obj\Debug\008.008 - Array exercise.vbproj.AssemblyReference.cache
+C:\Users\alexa\Documents\Workspace\Visual Basic\Tutorial\008.008 - Array exercise\obj\Debug\_008._008___Array_exercise.Form1.resources
+C:\Users\alexa\Documents\Workspace\Visual Basic\Tutorial\008.008 - Array exercise\obj\Debug\_008._008___Array_exercise.Resources.resources
+C:\Users\alexa\Documents\Workspace\Visual Basic\Tutorial\008.008 - Array exercise\obj\Debug\008.008 - Array exercise.vbproj.GenerateResource.cache
+C:\Users\alexa\Documents\Workspace\Visual Basic\Tutorial\008.008 - Array exercise\obj\Debug\008.008 - Array exercise.vbproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\Workspace\Visual Basic\Tutorial\008.008 - Array exercise\obj\Debug\008.008 - Array exercise.exe
+C:\Users\alexa\Documents\Workspace\Visual Basic\Tutorial\008.008 - Array exercise\obj\Debug\008.008 - Array exercise.xml
+C:\Users\alexa\Documents\Workspace\Visual Basic\Tutorial\008.008 - Array exercise\obj\Debug\008.008 - Array exercise.pdb
